@@ -39,5 +39,5 @@ a browser based Tic Tac Toe game in JavaScript, HTML and CSS
 
 ### wireframes
 
-![Tic Tac Toe initial screen](/assets/tic.png)
- <!-- <img src="/assets/tic.png" alt="tic tac" width="500px"> -->
+<!-- ![Tic Tac Toe initial screen](/assets/tic.png) -->
+<img src="./assets/tic.png" alt="Tic tac toe about modal" width="600px" />
