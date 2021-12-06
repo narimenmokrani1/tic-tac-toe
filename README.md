@@ -36,3 +36,8 @@ a browser based Tic Tac Toe game in JavaScript, HTML and CSS
 - As a user, I want cosmetic options for different styles of board.
 - As a user, I want to be able to play different forms of the game, such as 3-dimensional Tic-Tac-Toe
 - As a user, I want the game to have a global match-making system so that I can play against other users that are similarly-ranked  
+
+### wireframes
+
+![Tic Tac Toe initial screen](/assets/tic.png)
+ <!-- <img src="/assets/tic.png" alt="tic tac" width="500px"> -->
